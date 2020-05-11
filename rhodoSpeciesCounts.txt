@@ -1,151 +1,370 @@
 ID	Level3_cod	Count	Category
-12	BGM	1	1: < 10 spp.
-15	BLT	1	1: < 10 spp.
-33	CZE	1	1: < 10 spp.
-35	EAI	1	1: < 10 spp.
-42	GGI	1	1: < 10 spp.
-47	IND	1	1: < 10 spp.
-54	KAZ	1	1: < 10 spp.
-60	LAB	1	1: < 10 spp.
-70	MIC	1	1: < 10 spp.
-71	MIN	1	1: < 10 spp.
-78	MSO	1	1: < 10 spp.
-84	NET	1	1: < 10 spp.
-85	NEV	1	1: < 10 spp.
-94	NWM	1	1: < 10 spp.
-97	OGA	1	1: < 10 spp.
-107	POR	1	1: < 10 spp.
-113	RUC	1	1: < 10 spp.
-114	RUE	1	1: < 10 spp.
-115	RUN	1	1: < 10 spp.
-116	RUW	1	1: < 10 spp.
-122	SRL	1	1: < 10 spp.
-132	TUE	1	1: < 10 spp.
-136	UTA	1	1: < 10 spp.
-2	AFG	2	1: < 10 spp.
-5	ALU	2	1: < 10 spp.
-11	BAN	2	1: < 10 spp.
-14	BLR	2	1: < 10 spp.
-19	BUL	2	1: < 10 spp.
-21	CBD	2	1: < 10 spp.
-31	COL	2	1: < 10 spp.
-37	FIN	2	1: < 10 spp.
-48	IRE	2	1: < 10 spp.
-50	ITA	2	1: < 10 spp.
-62	LBS	2	1: < 10 spp.
-63	LOU	2	1: < 10 spp.
-69	MDR	2	1: < 10 spp.
-80	NBR	2	1: < 10 spp.
-88	NOR	2	1: < 10 spp.
-102	PAK	2	1: < 10 spp.
-103	PEI	2	1: < 10 spp.
-106	POL	2	1: < 10 spp.
-109	QLD	2	1: < 10 spp.
-112	ROM	2	1: < 10 spp.
-118	SAS	2	1: < 10 spp.
-121	SPA	2	1: < 10 spp.
-125	SWE	2	1: < 10 spp.
-126	SWI	2	1: < 10 spp.
-130	TEX	2	1: < 10 spp.
-142	WIS	2	1: < 10 spp.
-145	WYO	2	1: < 10 spp.
-4	ALT	3	1: < 10 spp.
-7	ARK	3	1: < 10 spp.
-46	ILL	3	1: < 10 spp.
-67	MAN	3	1: < 10 spp.
-73	MNT	3	1: < 10 spp.
-82	NCS	3	1: < 10 spp.
-89	NSC	3	1: < 10 spp.
-90	NUN	3	1: < 10 spp.
-95	NWT	3	1: < 10 spp.
-99	OKL	3	1: < 10 spp.
-135	UKR	3	1: < 10 spp.
-143	WSB	3	1: < 10 spp.
-13	BIS	4	1: < 10 spp.
-20	CAL	4	1: < 10 spp.
-24	CHI	4	1: < 10 spp.
-34	DEL	4	1: < 10 spp.
-39	FRA	4	1: < 10 spp.
-43	GNL	4	1: < 10 spp.
-44	GRB	4	1: < 10 spp.
-45	IDA	4	1: < 10 spp.
-77	MSI	4	1: < 10 spp.
-86	NFL	4	1: < 10 spp.
-98	OHI	4	1: < 10 spp.
-100	ONT	4	1: < 10 spp.
-110	QUE	4	1: < 10 spp.
-111	RHO	4	1: < 10 spp.
-120	SOL	4	1: < 10 spp.
-147	YUG	4	1: < 10 spp.
-148	YUK	4	1: < 10 spp.
-10	AUT	5	1: < 10 spp.
-23	CHH	5	1: < 10 spp.
-38	FLA	5	1: < 10 spp.
-41	GER	5	1: < 10 spp.
-53	KAM	5	1: < 10 spp.
-57	KRA	5	1: < 10 spp.
-66	MAI	5	1: < 10 spp.
-68	MAS	5	1: < 10 spp.
-75	MON	5	1: < 10 spp.
-87	NNS	5	1: < 10 spp.
-93	NWJ	5	1: < 10 spp.
-134	TVA	5	1: < 10 spp.
-140	WAS	5	1: < 10 spp.
-1	ABT	6	1: < 10 spp.
-8	ASK	6	1: < 10 spp.
-30	CNT	6	1: < 10 spp.
-32	CTA	6	1: < 10 spp.
-64	LSI	6	1: < 10 spp.
-92	NWH	6	1: < 10 spp.
-101	ORE	6	1: < 10 spp.
-137	VER	6	1: < 10 spp.
-17	BRC	7	1: < 10 spp.
-18	BRY	7	1: < 10 spp.
-49	IRK	7	1: < 10 spp.
-76	MRY	7	1: < 10 spp.
-128	TCS	7	1: < 10 spp.
-144	WVA	7	1: < 10 spp.
-146	YAK	7	1: < 10 spp.
-25	CHM	8	1: < 10 spp.
-58	KTY	8	1: < 10 spp.
-59	KUR	8	1: < 10 spp.
-65	MAG	8	1: < 10 spp.
-96	NWY	8	1: < 10 spp.
-52	JAW	9	1: < 10 spp.
-131	THA	10	2: < 20 spp.
-133	TUR	10	2: < 20 spp.
-139	VRG	10	2: < 20 spp.
-141	WHM	10	2: < 20 spp.
-74	MOL	11	2: < 20 spp.
-104	PEN	11	2: < 20 spp.
-129	TEN	11	2: < 20 spp.
-6	AMU	12	2: < 20 spp.
-55	KHA	12	2: < 20 spp.
-108	PRM	12	2: < 20 spp.
-119	SCA	12	2: < 20 spp.
-61	LAO	13	2: < 20 spp.
-81	NCA	13	2: < 20 spp.
-117	SAK	13	2: < 20 spp.
-3	ALA	15	2: < 20 spp.
-56	KOR	16	2: < 20 spp.
-9	ASS	17	2: < 20 spp.
-40	GEO	17	2: < 20 spp.
-72	MLY	17	2: < 20 spp.
-27	CHQ	21	3: < 100 spp.
-127	TAI	26	3: < 100 spp.
-124	SUM	32	3: < 100 spp.
-105	PHI	34	3: < 100 spp.
-123	SUL	34	3: < 100 spp.
-83	NEP	35	3: < 100 spp.
-26	CHN	47	3: < 100 spp.
-138	VIE	52	3: < 100 spp.
-16	BOR	85	3: < 100 spp.
-51	JAP	117	4: < 200 spp.
-36	EHM	129	4: < 200 spp.
-28	CHS	142	4: < 200 spp.
-79	MYA	165	4: < 200 spp.
-91	NWG	189	4: < 200 spp.
-29	CHT	231	5: < 500 spp. 
-22	CHC	507	6: > 500 spp.
-			
-			
+18	BGM	1	1: < 10 Native Rhododendron spp.
+66	BLT	1	1: < 10 Native Rhododendron spp.
+21	CZE	1	1: < 10 Native Rhododendron spp.
+222	EAI	1	1: < 10 Native Rhododendron spp.
+120	GGI	1	1: < 10 Native Rhododendron spp.
+315	IND	1	1: < 10 Native Rhododendron spp.
+196	KAZ	1	1: < 10 Native Rhododendron spp.
+477	LAB	1	1: < 10 Native Rhododendron spp.
+509	MIC	1	1: < 10 Native Rhododendron spp.
+497	MIN	1	1: < 10 Native Rhododendron spp.
+498	MSO	1	1: < 10 Native Rhododendron spp.
+26	NET	1	1: < 10 Native Rhododendron spp.
+521	NEV	1	1: < 10 Native Rhododendron spp.
+524	NWM	1	1: < 10 Native Rhododendron spp.
+298	OGA	1	1: < 10 Native Rhododendron spp.
+36	POR	1	1: < 10 Native Rhododendron spp.
+72	RUC	1	1: < 10 Native Rhododendron spp.
+73	RUE	1	1: < 10 Native Rhododendron spp.
+74	RUN	1	1: < 10 Native Rhododendron spp.
+76	RUW	1	1: < 10 Native Rhododendron spp.
+346	SRL	1	1: < 10 Native Rhododendron spp.
+55	TUE	1	1: < 10 Native Rhododendron spp.
+522	UTA	1	1: < 10 Native Rhododendron spp.
+220	AFG	2	1: < 10 Native Rhododendron spp.
+465	ALU	2	1: < 10 Native Rhododendron spp.
+309	BAN	2	1: < 10 Native Rhododendron spp.
+65	BLR	2	1: < 10 Native Rhododendron spp.
+44	BUL	2	1: < 10 Native Rhododendron spp.
+355	CBD	2	1: < 10 Native Rhododendron spp.
+487	COL	2	1: < 10 Native Rhododendron spp.
+4	FIN	2	1: < 10 Native Rhododendron spp.
+8	IRE	2	1: < 10 Native Rhododendron spp.
+46	ITA	2	1: < 10 Native Rhododendron spp.
+225	LBS	2	1: < 10 Native Rhododendron spp.
+533	LOU	2	1: < 10 Native Rhododendron spp.
+94	MDR	2	1: < 10 Native Rhododendron spp.
+478	NBR	2	1: < 10 Native Rhododendron spp.
+11	NOR	2	1: < 10 Native Rhododendron spp.
+345	PAK	2	1: < 10 Native Rhododendron spp.
+484	PEI	2	1: < 10 Native Rhododendron spp.
+27	POL	2	1: < 10 Native Rhododendron spp.
+401	QLD	2	1: < 10 Native Rhododendron spp.
+51	ROM	2	1: < 10 Native Rhododendron spp.
+475	SAS	2	1: < 10 Native Rhododendron spp.
+38	SPA	2	1: < 10 Native Rhododendron spp.
+13	SWE	2	1: < 10 Native Rhododendron spp.
+28	SWI	2	1: < 10 Native Rhododendron spp.
+525	TEX	2	1: < 10 Native Rhododendron spp.
+503	WIS	2	1: < 10 Native Rhododendron spp.
+492	WYO	2	1: < 10 Native Rhododendron spp.
+179	ALT	3	1: < 10 Native Rhododendron spp.
+528	ARK	3	1: < 10 Native Rhododendron spp.
+494	ILL	3	1: < 10 Native Rhododendron spp.
+474	MAN	3	1: < 10 Native Rhododendron spp.
+489	MNT	3	1: < 10 Native Rhododendron spp.
+202	NCS	3	1: < 10 Native Rhododendron spp.
+482	NSC	3	1: < 10 Native Rhododendron spp.
+468	NUN	3	1: < 10 Native Rhododendron spp.
+469	NWT	3	1: < 10 Native Rhododendron spp.
+501	OKL	3	1: < 10 Native Rhododendron spp.
+77	UKR	3	1: < 10 Native Rhododendron spp.
+185	WSB	3	1: < 10 Native Rhododendron spp.
+385	BIS	4	1: < 10 Native Rhododendron spp.
+520	CAL	4	1: < 10 Native Rhododendron spp.
+252	CHI	4	1: < 10 Native Rhododendron spp.
+529	DEL	4	1: < 10 Native Rhododendron spp.
+32	FRA	4	1: < 10 Native Rhododendron spp.
+467	GNL	4	1: < 10 Native Rhododendron spp.
+6	GRB	4	1: < 10 Native Rhododendron spp.
+488	IDA	4	1: < 10 Native Rhododendron spp.
+535	MSI	4	1: < 10 Native Rhododendron spp.
+479	NFL	4	1: < 10 Native Rhododendron spp.
+513	OHI	4	1: < 10 Native Rhododendron spp.
+483	ONT	4	1: < 10 Native Rhododendron spp.
+485	QUE	4	1: < 10 Native Rhododendron spp.
+515	RHO	4	1: < 10 Native Rhododendron spp.
+389	SOL	4	1: < 10 Native Rhododendron spp.
+56	YUG	4	1: < 10 Native Rhododendron spp.
+470	YUK	4	1: < 10 Native Rhododendron spp.
+15	AUT	5	1: < 10 Native Rhododendron spp.
+251	CHH	5	1: < 10 Native Rhododendron spp.
+530	FLA	5	1: < 10 Native Rhododendron spp.
+24	GER	5	1: < 10 Native Rhododendron spp.
+189	KAM	5	1: < 10 Native Rhododendron spp.
+183	KRA	5	1: < 10 Native Rhododendron spp.
+507	MAI	5	1: < 10 Native Rhododendron spp.
+508	MAS	5	1: < 10 Native Rhododendron spp.
+286	MON	5	1: < 10 Native Rhododendron spp.
+297	NNS	5	1: < 10 Native Rhododendron spp.
+511	NWJ	5	1: < 10 Native Rhododendron spp.
+184	TVA	5	1: < 10 Native Rhododendron spp.
+491	WAS	5	1: < 10 Native Rhododendron spp.
+472	ABT	6	1: < 10 Native Rhododendron spp.
+466	ASK	6	1: < 10 Native Rhododendron spp.
+505	CNT	6	1: < 10 Native Rhododendron spp.
+181	CTA	6	1: < 10 Native Rhododendron spp.
+372	LSI	6	1: < 10 Native Rhododendron spp.
+510	NWH	6	1: < 10 Native Rhododendron spp.
+490	ORE	6	1: < 10 Native Rhododendron spp.
+516	VER	6	1: < 10 Native Rhododendron spp.
+473	BRC	7	1: < 10 Native Rhododendron spp.
+180	BRY	7	1: < 10 Native Rhododendron spp.
+182	IRK	7	1: < 10 Native Rhododendron spp.
+534	MRY	7	1: < 10 Native Rhododendron spp.
+211	TCS	7	1: < 10 Native Rhododendron spp.
+517	WVA	7	1: < 10 Native Rhododendron spp.
+186	YAK	7	1: < 10 Native Rhododendron spp.
+255	CHM	8	1: < 10 Native Rhododendron spp.
+532	KTY	8	1: < 10 Native Rhododendron spp.
+191	KUR	8	1: < 10 Native Rhododendron spp.
+192	MAG	8	1: < 10 Native Rhododendron spp.
+512	NWY	8	1: < 10 Native Rhododendron spp.
+371	JAW	9	1: < 10 Native Rhododendron spp.
+362	THA	10	2: < 20 Native Rhododendron spp.
+232	TUR	10	2: < 20 Native Rhododendron spp.
+539	VRG	10	2: < 20 Native Rhododendron spp.
+347	WHM	10	2: < 20 Native Rhododendron spp.
+379	MOL	11	2: < 20 Native Rhododendron spp.
+514	PEN	11	2: < 20 Native Rhododendron spp.
+538	TEN	11	2: < 20 Native Rhododendron spp.
+188	AMU	12	2: < 20 Native Rhododendron spp.
+190	KHA	12	2: < 20 Native Rhododendron spp.
+193	PRM	12	2: < 20 Native Rhododendron spp.
+537	SCA	12	2: < 20 Native Rhododendron spp.
+356	LAO	13	2: < 20 Native Rhododendron spp.
+536	NCA	13	2: < 20 Native Rhododendron spp.
+194	SAK	13	2: < 20 Native Rhododendron spp.
+527	ALA	15	2: < 20 Native Rhododendron spp.
+293	KOR	16	2: < 20 Native Rhododendron spp.
+302	ASS	17	2: < 20 Native Rhododendron spp.
+531	GEO	17	2: < 20 Native Rhododendron spp.
+376	MLY	17	2: < 20 Native Rhododendron spp.
+267	CHQ	21	3: < 100 Native Rhododendron spp.
+299	TAI	26	3: < 100 Native Rhododendron spp.
+382	SUM	32	3: < 100 Native Rhododendron spp.
+380	PHI	34	3: < 100 Native Rhododendron spp.
+381	SUL	34	3: < 100 Native Rhododendron spp.
+344	NEP	35	3: < 100 Native Rhododendron spp.
+259	CHN	47	3: < 100 Native Rhododendron spp.
+363	VIE	52	3: < 100 Native Rhododendron spp.
+365	BOR	85	3: < 100 Native Rhododendron spp.
+288	JAP	117	4: < 200 Native Rhododendron spp.
+310	EHM	129	4: < 200 Native Rhododendron spp.
+268	CHS	142	4: < 200 Native Rhododendron spp.
+357	MYA	165	4: < 200 Native Rhododendron spp.
+386	NWG	189	4: < 200 Native Rhododendron spp.
+283	CHT	231	5: < 500 Native Rhododendron spp. 
+245	CHC	507	6: > 500 Native Rhododendron spp.
+684	AGE	0	0: No Native Rhododendron Species
+695	AGS	0	0: No Native Rhododendron Species
+701	AGW	0	0: No Native Rhododendron Species
+43	ALB	0	0: No Native Rhododendron Species
+166	ALD	0	0: No Native Rhododendron Species
+82	ALG	0	0: No Native Rhododendron Species
+352	AND	0	0: No Native Rhododendron Species
+140	ANG	0	0: No Native Rhododendron Species
+745	ANT	0	0: No Native Rhododendron Species
+519	ARI	0	0: No Native Rhododendron Species
+598	ARU	0	0: No Native Rhododendron Species
+163	ASC	0	0: No Native Rhododendron Species
+733	ASP	0	0: No Native Rhododendron Species
+411	ATP	0	0: No Native Rhododendron Species
+91	AZO	0	0: No Native Rhododendron Species
+599	BAH	0	0: No Native Rhododendron Species
+30	BAL	0	0: No Native Rhododendron Species
+97	BEN	0	0: No Native Rhododendron Species
+600	BER	0	0: No Native Rhododendron Species
+98	BKN	0	0: No Native Rhododendron Species
+586	BLZ	0	0: No Native Rhododendron Species
+643	BOL	0	0: No Native Rhododendron Species
+146	BOT	0	0: No Native Rhododendron Species
+734	BOU	0	0: No Native Rhododendron Species
+113	BUR	0	0: No Native Rhododendron Species
+649	BZC	0	0: No Native Rhododendron Species
+654	BZE	0	0: No Native Rhododendron Species
+665	BZL	0	0: No Native Rhododendron Species
+671	BZN	0	0: No Native Rhododendron Species
+679	BZS	0	0: No Native Rhododendron Species
+114	CAB	0	0: No Native Rhododendron Species
+115	CAF	0	0: No Native Rhododendron Species
+601	CAY	0	0: No Native Rhododendron Species
+167	CGS	0	0: No Native Rhododendron Species
+128	CHA	0	0: No Native Rhododendron Species
+284	CHX	0	0: No Native Rhododendron Species
+370	CKI	0	0: No Native Rhododendron Species
+711	CLC	0	0: No Native Rhododendron Species
+644	CLM	0	0: No Native Rhododendron Species
+719	CLN	0	0: No Native Rhododendron Species
+723	CLS	0	0: No Native Rhododendron Species
+116	CMN	0	0: No Native Rhododendron Species
+92	CNY	0	0: No Native Rhododendron Species
+168	COM	0	0: No Native Rhododendron Species
+117	CON	0	0: No Native Rhododendron Species
+438	COO	0	0: No Native Rhododendron Species
+31	COR	0	0: No Native Rhododendron Species
+587	COS	0	0: No Native Rhododendron Species
+588	CPI	0	0: No Native Rhododendron Species
+147	CPP	0	0: No Native Rhododendron Species
+151	CPV	0	0: No Native Rhododendron Species
+449	CRL	0	0: No Native Rhododendron Species
+735	CRZ	0	0: No Native Rhododendron Species
+412	CTM	0	0: No Native Rhododendron Species
+602	CUB	0	0: No Native Rhododendron Species
+93	CVI	0	0: No Native Rhododendron Species
+221	CYP	0	0: No Native Rhododendron Species
+3	DEN	0	0: No Native Rhododendron Species
+129	DJI	0	0: No Native Rhododendron Species
+603	DOM	0	0: No Native Rhododendron Species
+727	DSV	0	0: No Native Rhododendron Species
+439	EAS	0	0: No Native Rhododendron Species
+645	ECU	0	0: No Native Rhododendron Species
+83	EGY	0	0: No Native Rhododendron Species
+592	ELS	0	0: No Native Rhododendron Species
+118	EQG	0	0: No Native Rhododendron Species
+130	ERI	0	0: No Native Rhododendron Species
+131	ETH	0	0: No Native Rhododendron Species
+736	FAL	0	0: No Native Rhododendron Species
+418	FIJ	0	0: No Native Rhododendron Species
+5	FOR	0	0: No Native Rhododendron Species
+638	FRG	0	0: No Native Rhododendron Species
+119	GAB	0	0: No Native Rhododendron Species
+646	GAL	0	0: No Native Rhododendron Species
+99	GAM	0	0: No Native Rhododendron Species
+100	GHA	0	0: No Native Rhododendron Species
+419	GIL	0	0: No Native Rhododendron Species
+101	GNB	0	0: No Native Rhododendron Species
+45	GRC	0	0: No Native Rhododendron Species
+234	GST	0	0: No Native Rhododendron Species
+593	GUA	0	0: No Native Rhododendron Species
+102	GUI	0	0: No Native Rhododendron Species
+639	GUY	0	0: No Native Rhododendron Species
+604	HAI	0	0: No Native Rhododendron Species
+459	HAW	0	0: No Native Rhododendron Species
+420	HBI	0	0: No Native Rhododendron Species
+737	HMD	0	0: No Native Rhododendron Species
+594	HON	0	0: No Native Rhododendron Species
+25	HUN	0	0: No Native Rhododendron Species
+7	ICE	0	0: No Native Rhododendron Species
+506	INI	0	0: No Native Rhododendron Species
+495	IOW	0	0: No Native Rhododendron Species
+223	IRN	0	0: No Native Rhododendron Species
+224	IRQ	0	0: No Native Rhododendron Species
+103	IVO	0	0: No Native Rhododendron Species
+607	JAM	0	0: No Native Rhododendron Species
+728	JNF	0	0: No Native Rhododendron Species
+496	KAN	0	0: No Native Rhododendron Species
+738	KEG	0	0: No Native Rhododendron Species
+136	KEN	0	0: No Native Rhododendron Species
+413	KER	0	0: No Native Rhododendron Species
+197	KGZ	0	0: No Native Rhododendron Species
+50	KRI	0	0: No Native Rhododendron Species
+71	KRY	0	0: No Native Rhododendron Species
+238	KUW	0	0: No Native Rhododendron Species
+296	KZN	0	0: No Native Rhododendron Species
+104	LBR	0	0: No Native Rhododendron Species
+84	LBY	0	0: No Native Rhododendron Species
+342	LDV	0	0: No Native Rhododendron Species
+608	LEE	0	0: No Native Rhododendron Species
+152	LES	0	0: No Native Rhododendron Species
+440	LIN	0	0: No Native Rhododendron Species
+739	MAQ	0	0: No Native Rhododendron Species
+171	MAU	0	0: No Native Rhododendron Species
+172	MCI	0	0: No Native Rhododendron Species
+452	MCS	0	0: No Native Rhododendron Species
+173	MDG	0	0: No Native Rhododendron Species
+343	MDV	0	0: No Native Rhododendron Species
+105	MLI	0	0: No Native Rhododendron Species
+141	MLW	0	0: No Native Rhododendron Species
+85	MOR	0	0: No Native Rhododendron Species
+142	MOZ	0	0: No Native Rhododendron Species
+740	MPE	0	0: No Native Rhododendron Species
+453	MRN	0	0: No Native Rhododendron Species
+443	MRQ	0	0: No Native Rhododendron Species
+456	MRS	0	0: No Native Rhododendron Species
+106	MTN	0	0: No Native Rhododendron Species
+542	MXC	0	0: No Native Rhododendron Species
+548	MXE	0	0: No Native Rhododendron Species
+560	MXG	0	0: No Native Rhododendron Species
+562	MXI	0	0: No Native Rhododendron Species
+566	MXN	0	0: No Native Rhododendron Species
+571	MXS	0	0: No Native Rhododendron Species
+578	MXT	0	0: No Native Rhododendron Species
+153	NAM	0	0: No Native Rhododendron Species
+154	NAT	0	0: No Native Rhododendron Species
+358	NCB	0	0: No Native Rhododendron Species
+499	NDA	0	0: No Native Rhododendron Species
+500	NEB	0	0: No Native Rhododendron Species
+394	NFK	0	0: No Native Rhododendron Species
+107	NGA	0	0: No Native Rhododendron Species
+108	NGR	0	0: No Native Rhododendron Species
+595	NIC	0	0: No Native Rhododendron Species
+619	NLA	0	0: No Native Rhododendron Species
+421	NRU	0	0: No Native Rhododendron Species
+397	NSW	0	0: No Native Rhododendron Species
+400	NTA	0	0: No Native Rhododendron Species
+422	NUE	0	0: No Native Rhododendron Species
+423	NWC	0	0: No Native Rhododendron Species
+414	NZN	0	0: No Native Rhododendron Species
+415	NZS	0	0: No Native Rhododendron Species
+155	OFS	0	0: No Native Rhododendron Species
+239	OMA	0	0: No Native Rhododendron Species
+228	PAL	0	0: No Native Rhododendron Species
+596	PAN	0	0: No Native Rhododendron Species
+729	PAR	0	0: No Native Rhododendron Species
+647	PER	0	0: No Native Rhododendron Species
+424	PHX	0	0: No Native Rhododendron Species
+444	PIT	0	0: No Native Rhododendron Species
+622	PUE	0	0: No Native Rhododendron Species
+174	REU	0	0: No Native Rhododendron Species
+175	ROD	0	0: No Native Rhododendron Species
+75	RUS	0	0: No Native Rhododendron Species
+125	RWA	0	0: No Native Rhododendron Species
+425	SAM	0	0: No Native Rhododendron Species
+37	SAR	0	0: No Native Rhododendron Species
+240	SAU	0	0: No Native Rhododendron Species
+445	SCI	0	0: No Native Rhododendron Species
+359	SCS	0	0: No Native Rhododendron Species
+428	SCZ	0	0: No Native Rhododendron Species
+502	SDA	0	0: No Native Rhododendron Species
+95	SEL	0	0: No Native Rhododendron Species
+109	SEN	0	0: No Native Rhododendron Species
+176	SEY	0	0: No Native Rhododendron Species
+741	SGE	0	0: No Native Rhododendron Species
+52	SIC	0	0: No Native Rhododendron Species
+110	SIE	0	0: No Native Rhododendron Species
+231	SIN	0	0: No Native Rhododendron Species
+404	SOA	0	0: No Native Rhododendron Species
+132	SOC	0	0: No Native Rhododendron Species
+133	SOM	0	0: No Native Rhododendron Species
+742	SSA	0	0: No Native Rhododendron Species
+164	STH	0	0: No Native Rhododendron Species
+134	SUD	0	0: No Native Rhododendron Species
+640	SUR	0	0: No Native Rhododendron Species
+12	SVA	0	0: No Native Rhododendron Species
+623	SWC	0	0: No Native Rhododendron Species
+156	SWZ	0	0: No Native Rhododendron Species
+137	TAN	0	0: No Native Rhododendron Species
+405	TAS	0	0: No Native Rhododendron Species
+627	TCI	0	0: No Native Rhododendron Species
+743	TDC	0	0: No Native Rhododendron Species
+198	TKM	0	0: No Native Rhododendron Species
+111	TOG	0	0: No Native Rhododendron Species
+429	TOK	0	0: No Native Rhododendron Species
+433	TON	0	0: No Native Rhododendron Species
+628	TRT	0	0: No Native Rhododendron Species
+446	TUA	0	0: No Native Rhododendron Species
+447	TUB	0	0: No Native Rhododendron Species
+88	TUN	0	0: No Native Rhododendron Species
+434	TUV	0	0: No Native Rhododendron Species
+157	TVL	0	0: No Native Rhododendron Species
+199	TZK	0	0: No Native Rhododendron Species
+138	UGA	0	0: No Native Rhododendron Species
+730	URU	0	0: No Native Rhododendron Species
+200	UZB	0	0: No Native Rhododendron Species
+435	VAN	0	0: No Native Rhododendron Species
+641	VEN	0	0: No Native Rhododendron Species
+406	VIC	0	0: No Native Rhododendron Species
+629	VNA	0	0: No Native Rhododendron Species
+457	WAK	0	0: No Native Rhododendron Species
+436	WAL	0	0: No Native Rhododendron Species
+407	WAU	0	0: No Native Rhododendron Species
+540	WDC	0	0: No Native Rhododendron Species
+630	WIN	0	0: No Native Rhododendron Species
+89	WSA	0	0: No Native Rhododendron Species
+383	XMS	0	0: No Native Rhododendron Species
+241	YEM	0	0: No Native Rhododendron Species
+126	ZAI	0	0: No Native Rhododendron Species
+143	ZAM	0	0: No Native Rhododendron Species
+144	ZIM	0	0: No Native Rhododendron Species
