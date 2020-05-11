@@ -1,149 +1,151 @@
-ID	Level3_cod	Count
-1	ABT	006
-2	AFG	002
-3	ALA	015
-4	ALT	003
-5	ALU	002
-6	AMU	012
-7	ARK	003
-8	ASK	006
-9	ASS	017
-10	AUT	005
-11	BAN	002
-12	BGM	001
-13	BIS	004
-14	BLR	002
-15	BLT	001
-16	BOR	085
-17	BRC	007
-18	BRY	007
-19	BUL	002
-20	CAL	004
-21	CBD	002
-22	CHC	507
-23	CHH	005
-24	CHI	004
-25	CHM	008
-26	CHN	047
-27	CHQ	021
-28	CHS	142
-29	CHT	231
-30	CNT	006
-31	COL	002
-32	CTA	006
-33	CZE	001
-34	DEL	004
-35	EAI	001
-36	EHM	129
-37	FIN	002
-38	FLA	005
-39	FRA	004
-40	GEO	017
-41	GER	005
-42	GGI	001
-43	GNL	004
-44	GRB	004
-45	IDA	004
-46	ILL	003
-47	IND	001
-48	IRE	002
-49	IRK	007
-50	ITA	002
-51	JAP	117
-52	JAW	009
-53	KAM	005
-54	KAZ	001
-55	KHA	012
-56	KOR	016
-57	KRA	005
-58	KTY	008
-59	KUR	008
-60	LAB	001
-61	LAO	013
-62	LBS	002
-63	LOU	002
-64	LSI	006
-65	MAG	008
-66	MAI	005
-67	MAN	003
-68	MAS	005
-69	MDR	002
-70	MIC	001
-71	MIN	001
-72	MLY	017
-73	MNT	003
-74	MOL	011
-75	MON	005
-76	MRY	007
-77	MSI	004
-78	MSO	001
-79	MYA	165
-80	NBR	002
-81	NCA	013
-82	NCS	003
-83	NEP	035
-84	NET	001
-85	NEV	001
-86	NFL	004
-87	NNS	005
-88	NOR	002
-89	NSC	003
-90	NUN	003
-91	NWG	189
-92	NWH	006
-93	NWJ	005
-94	NWM	001
-95	NWT	003
-96	NWY	008
-97	OGA	001
-98	OHI	004
-99	OKL	003
-100	ONT	004
-101	ORE	006
-102	PAK	002
-103	PEI	002
-104	PEN	011
-105	PHI	034
-106	POL	002
-107	POR	001
-108	PRM	012
-109	QLD	002
-110	QUE	004
-111	RHO	004
-112	ROM	002
-113	RUC	001
-114	RUE	001
-115	RUN	001
-116	RUW	001
-117	SAK	013
-118	SAS	002
-119	SCA	012
-120	SOL	004
-121	SPA	002
-122	SRL	001
-123	SUL	034
-124	SUM	032
-125	SWE	002
-126	SWI	002
-127	TAI	026
-128	TCS	007
-129	TEN	011
-130	TEX	002
-131	THA	010
-132	TUE	001
-133	TUR	010
-134	TVA	005
-135	UKR	003
-136	UTA	001
-137	VER	006
-138	VIE	052
-139	VRG	010
-140	WAS	005
-141	WHM	010
-142	WIS	002
-143	WSB	003
-144	WVA	007
-145	WYO	002
-146	YAK	007
-147	YUG	004
-148	YUK	004
+ID	Level3_cod	Count	Category
+12	BGM	1	1: < 10 spp.
+15	BLT	1	1: < 10 spp.
+33	CZE	1	1: < 10 spp.
+35	EAI	1	1: < 10 spp.
+42	GGI	1	1: < 10 spp.
+47	IND	1	1: < 10 spp.
+54	KAZ	1	1: < 10 spp.
+60	LAB	1	1: < 10 spp.
+70	MIC	1	1: < 10 spp.
+71	MIN	1	1: < 10 spp.
+78	MSO	1	1: < 10 spp.
+84	NET	1	1: < 10 spp.
+85	NEV	1	1: < 10 spp.
+94	NWM	1	1: < 10 spp.
+97	OGA	1	1: < 10 spp.
+107	POR	1	1: < 10 spp.
+113	RUC	1	1: < 10 spp.
+114	RUE	1	1: < 10 spp.
+115	RUN	1	1: < 10 spp.
+116	RUW	1	1: < 10 spp.
+122	SRL	1	1: < 10 spp.
+132	TUE	1	1: < 10 spp.
+136	UTA	1	1: < 10 spp.
+2	AFG	2	1: < 10 spp.
+5	ALU	2	1: < 10 spp.
+11	BAN	2	1: < 10 spp.
+14	BLR	2	1: < 10 spp.
+19	BUL	2	1: < 10 spp.
+21	CBD	2	1: < 10 spp.
+31	COL	2	1: < 10 spp.
+37	FIN	2	1: < 10 spp.
+48	IRE	2	1: < 10 spp.
+50	ITA	2	1: < 10 spp.
+62	LBS	2	1: < 10 spp.
+63	LOU	2	1: < 10 spp.
+69	MDR	2	1: < 10 spp.
+80	NBR	2	1: < 10 spp.
+88	NOR	2	1: < 10 spp.
+102	PAK	2	1: < 10 spp.
+103	PEI	2	1: < 10 spp.
+106	POL	2	1: < 10 spp.
+109	QLD	2	1: < 10 spp.
+112	ROM	2	1: < 10 spp.
+118	SAS	2	1: < 10 spp.
+121	SPA	2	1: < 10 spp.
+125	SWE	2	1: < 10 spp.
+126	SWI	2	1: < 10 spp.
+130	TEX	2	1: < 10 spp.
+142	WIS	2	1: < 10 spp.
+145	WYO	2	1: < 10 spp.
+4	ALT	3	1: < 10 spp.
+7	ARK	3	1: < 10 spp.
+46	ILL	3	1: < 10 spp.
+67	MAN	3	1: < 10 spp.
+73	MNT	3	1: < 10 spp.
+82	NCS	3	1: < 10 spp.
+89	NSC	3	1: < 10 spp.
+90	NUN	3	1: < 10 spp.
+95	NWT	3	1: < 10 spp.
+99	OKL	3	1: < 10 spp.
+135	UKR	3	1: < 10 spp.
+143	WSB	3	1: < 10 spp.
+13	BIS	4	1: < 10 spp.
+20	CAL	4	1: < 10 spp.
+24	CHI	4	1: < 10 spp.
+34	DEL	4	1: < 10 spp.
+39	FRA	4	1: < 10 spp.
+43	GNL	4	1: < 10 spp.
+44	GRB	4	1: < 10 spp.
+45	IDA	4	1: < 10 spp.
+77	MSI	4	1: < 10 spp.
+86	NFL	4	1: < 10 spp.
+98	OHI	4	1: < 10 spp.
+100	ONT	4	1: < 10 spp.
+110	QUE	4	1: < 10 spp.
+111	RHO	4	1: < 10 spp.
+120	SOL	4	1: < 10 spp.
+147	YUG	4	1: < 10 spp.
+148	YUK	4	1: < 10 spp.
+10	AUT	5	1: < 10 spp.
+23	CHH	5	1: < 10 spp.
+38	FLA	5	1: < 10 spp.
+41	GER	5	1: < 10 spp.
+53	KAM	5	1: < 10 spp.
+57	KRA	5	1: < 10 spp.
+66	MAI	5	1: < 10 spp.
+68	MAS	5	1: < 10 spp.
+75	MON	5	1: < 10 spp.
+87	NNS	5	1: < 10 spp.
+93	NWJ	5	1: < 10 spp.
+134	TVA	5	1: < 10 spp.
+140	WAS	5	1: < 10 spp.
+1	ABT	6	1: < 10 spp.
+8	ASK	6	1: < 10 spp.
+30	CNT	6	1: < 10 spp.
+32	CTA	6	1: < 10 spp.
+64	LSI	6	1: < 10 spp.
+92	NWH	6	1: < 10 spp.
+101	ORE	6	1: < 10 spp.
+137	VER	6	1: < 10 spp.
+17	BRC	7	1: < 10 spp.
+18	BRY	7	1: < 10 spp.
+49	IRK	7	1: < 10 spp.
+76	MRY	7	1: < 10 spp.
+128	TCS	7	1: < 10 spp.
+144	WVA	7	1: < 10 spp.
+146	YAK	7	1: < 10 spp.
+25	CHM	8	1: < 10 spp.
+58	KTY	8	1: < 10 spp.
+59	KUR	8	1: < 10 spp.
+65	MAG	8	1: < 10 spp.
+96	NWY	8	1: < 10 spp.
+52	JAW	9	1: < 10 spp.
+131	THA	10	2: < 20 spp.
+133	TUR	10	2: < 20 spp.
+139	VRG	10	2: < 20 spp.
+141	WHM	10	2: < 20 spp.
+74	MOL	11	2: < 20 spp.
+104	PEN	11	2: < 20 spp.
+129	TEN	11	2: < 20 spp.
+6	AMU	12	2: < 20 spp.
+55	KHA	12	2: < 20 spp.
+108	PRM	12	2: < 20 spp.
+119	SCA	12	2: < 20 spp.
+61	LAO	13	2: < 20 spp.
+81	NCA	13	2: < 20 spp.
+117	SAK	13	2: < 20 spp.
+3	ALA	15	2: < 20 spp.
+56	KOR	16	2: < 20 spp.
+9	ASS	17	2: < 20 spp.
+40	GEO	17	2: < 20 spp.
+72	MLY	17	2: < 20 spp.
+27	CHQ	21	3: < 100 spp.
+127	TAI	26	3: < 100 spp.
+124	SUM	32	3: < 100 spp.
+105	PHI	34	3: < 100 spp.
+123	SUL	34	3: < 100 spp.
+83	NEP	35	3: < 100 spp.
+26	CHN	47	3: < 100 spp.
+138	VIE	52	3: < 100 spp.
+16	BOR	85	3: < 100 spp.
+51	JAP	117	4: < 200 spp.
+36	EHM	129	4: < 200 spp.
+28	CHS	142	4: < 200 spp.
+79	MYA	165	4: < 200 spp.
+91	NWG	189	4: < 200 spp.
+29	CHT	231	5: < 500 spp. 
+22	CHC	507	6: > 500 spp.
+			
+			
