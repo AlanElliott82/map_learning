@@ -1,47 +1,28 @@
 ID	Level3_cod	Count	Category
-472	ABT	6	1: < 10 native Rhododendrons
-220	AFG	2	1: < 10 native Rhododendrons
 684	AGE	0	0: No native Rhododendrons
 695	AGS	0	0: No native Rhododendrons
 701	AGW	0	0: No native Rhododendrons
-527	ALA	15	2: < 20 native Rhododendrons
 43	ALB	0	0: No native Rhododendrons
 166	ALD	0	0: No native Rhododendrons
 82	ALG	0	0: No native Rhododendrons
-179	ALT	3	1: < 10 native Rhododendrons
-465	ALU	2	1: < 10 native Rhododendrons
-188	AMU	12	2: < 20 native Rhododendrons
 352	AND	0	0: No native Rhododendrons
 140	ANG	0	0: No native Rhododendrons
 745	ANT	0	0: No native Rhododendrons
 519	ARI	0	0: No native Rhododendrons
-528	ARK	3	1: < 10 native Rhododendrons
 598	ARU	0	0: No native Rhododendrons
 163	ASC	0	0: No native Rhododendrons
-466	ASK	6	1: < 10 native Rhododendrons
 733	ASP	0	0: No native Rhododendrons
-302	ASS	17	2: < 20 native Rhododendrons
 411	ATP	0	0: No native Rhododendrons
-15	AUT	5	1: < 10 native Rhododendrons
 91	AZO	0	0: No native Rhododendrons
 599	BAH	0	0: No native Rhododendrons
 30	BAL	0	0: No native Rhododendrons
-309	BAN	2	1: < 10 native Rhododendrons
 97	BEN	0	0: No native Rhododendrons
 600	BER	0	0: No native Rhododendrons
-18	BGM	1	6: Non-natives only
-385	BIS	4	1: < 10 native Rhododendrons
 98	BKN	0	0: No native Rhododendrons
-65	BLR	2	1: < 10 native Rhododendrons
-66	BLT	1	1: < 10 native Rhododendrons
 586	BLZ	0	0: No native Rhododendrons
 643	BOL	0	0: No native Rhododendrons
-365	BOR	85	3: < 100 native Rhododendrons
 146	BOT	0	0: No native Rhododendrons
 734	BOU	0	0: No native Rhododendrons
-473	BRC	7	1: < 10 native Rhododendrons
-180	BRY	7	1: < 10 native Rhododendrons
-44	BUL	2	1: < 10 native Rhododendrons
 113	BUR	0	0: No native Rhododendrons
 649	BZC	0	0: No native Rhododendrons
 654	BZE	0	0: No native Rhododendrons
@@ -50,19 +31,9 @@ ID	Level3_cod	Count	Category
 679	BZS	0	0: No native Rhododendrons
 114	CAB	0	0: No native Rhododendrons
 115	CAF	0	0: No native Rhododendrons
-520	CAL	4	1: < 10 native Rhododendrons
 601	CAY	0	0: No native Rhododendrons
-355	CBD	2	1: < 10 native Rhododendrons
 167	CGS	0	0: No native Rhododendrons
 128	CHA	0	0: No native Rhododendrons
-245	CHC	507	6: > 500 native Rhododendrons
-251	CHH	5	1: < 10 native Rhododendrons
-252	CHI	4	1: < 10 native Rhododendrons
-255	CHM	8	1: < 10 native Rhododendrons
-259	CHN	47	3: < 100 native Rhododendrons
-267	CHQ	21	3: < 100 native Rhododendrons
-268	CHS	142	4: < 200 native Rhododendrons
-283	CHT	231	5: < 500 native Rhododendrons 
 284	CHX	0	0: No native Rhododendrons
 370	CKI	0	0: No native Rhododendrons
 711	CLC	0	0: No native Rhododendrons
@@ -70,9 +41,7 @@ ID	Level3_cod	Count	Category
 719	CLN	0	0: No native Rhododendrons
 723	CLS	0	0: No native Rhododendrons
 116	CMN	0	0: No native Rhododendrons
-505	CNT	6	1: < 10 native Rhododendrons
 92	CNY	0	0: No native Rhododendrons
-487	COL	2	1: < 10 native Rhododendrons
 168	COM	0	0: No native Rhododendrons
 117	CON	0	0: No native Rhododendrons
 438	COO	0	0: No native Rhododendrons
@@ -83,44 +52,31 @@ ID	Level3_cod	Count	Category
 151	CPV	0	0: No native Rhododendrons
 449	CRL	0	0: No native Rhododendrons
 735	CRZ	0	0: No native Rhododendrons
-181	CTA	6	1: < 10 native Rhododendrons
 412	CTM	0	0: No native Rhododendrons
 602	CUB	0	0: No native Rhododendrons
 93	CVI	0	0: No native Rhododendrons
 221	CYP	0	0: No native Rhododendrons
-21	CZE	1	1: < 10 native Rhododendrons
-529	DEL	4	1: < 10 native Rhododendrons
 3	DEN	0	0: No native Rhododendrons
 129	DJI	0	0: No native Rhododendrons
 603	DOM	0	0: No native Rhododendrons
 727	DSV	0	0: No native Rhododendrons
-222	EAI	1	1: < 10 native Rhododendrons
 439	EAS	0	0: No native Rhododendrons
 645	ECU	0	0: No native Rhododendrons
 83	EGY	0	0: No native Rhododendrons
-310	EHM	129	4: < 200 native Rhododendrons
 592	ELS	0	0: No native Rhododendrons
 118	EQG	0	0: No native Rhododendrons
 130	ERI	0	0: No native Rhododendrons
 131	ETH	0	0: No native Rhododendrons
 736	FAL	0	0: No native Rhododendrons
 418	FIJ	0	0: No native Rhododendrons
-4	FIN	2	1: < 10 native Rhododendrons
-530	FLA	5	1: < 10 native Rhododendrons
 5	FOR	0	0: No native Rhododendrons
-32	FRA	4	1: < 10 native Rhododendrons
 638	FRG	0	0: No native Rhododendrons
 119	GAB	0	0: No native Rhododendrons
 646	GAL	0	0: No native Rhododendrons
 99	GAM	0	0: No native Rhododendrons
-531	GEO	17	2: < 20 native Rhododendrons
-24	GER	3	1: < 10 native Rhododendrons
-120	GGI	1	6: Non-natives only
 100	GHA	0	0: No native Rhododendrons
 419	GIL	0	0: No native Rhododendrons
 101	GNB	0	0: No native Rhododendrons
-467	GNL	4	1: < 10 native Rhododendrons
-6	GRB	4	6: Non-natives only
 45	GRC	0	0: No native Rhododendrons
 234	GST	0	0: No native Rhododendrons
 593	GUA	0	0: No native Rhododendrons
@@ -133,76 +89,42 @@ ID	Level3_cod	Count	Category
 594	HON	0	0: No native Rhododendrons
 25	HUN	0	0: No native Rhododendrons
 7	ICE	0	0: No native Rhododendrons
-488	IDA	4	1: < 10 native Rhododendrons
-494	ILL	3	1: < 10 native Rhododendrons
-315	IND	1	1: < 10 native Rhododendrons
 506	INI	0	0: No native Rhododendrons
 495	IOW	0	0: No native Rhododendrons
-8	IRE	2	1: < 10 native Rhododendrons
-182	IRK	7	1: < 10 native Rhododendrons
 223	IRN	0	0: No native Rhododendrons
 224	IRQ	0	0: No native Rhododendrons
-46	ITA	2	1: < 10 native Rhododendrons
 103	IVO	0	0: No native Rhododendrons
 607	JAM	0	0: No native Rhododendrons
-288	JAP	117	4: < 200 native Rhododendrons
-371	JAW	9	1: < 10 native Rhododendrons
 728	JNF	0	0: No native Rhododendrons
-189	KAM	5	1: < 10 native Rhododendrons
 496	KAN	0	0: No native Rhododendrons
-196	KAZ	1	1: < 10 native Rhododendrons
 738	KEG	0	0: No native Rhododendrons
 136	KEN	0	0: No native Rhododendrons
 413	KER	0	0: No native Rhododendrons
 197	KGZ	0	0: No native Rhododendrons
-190	KHA	12	2: < 20 native Rhododendrons
-293	KOR	16	2: < 20 native Rhododendrons
-183	KRA	5	1: < 10 native Rhododendrons
 50	KRI	0	0: No native Rhododendrons
 71	KRY	0	0: No native Rhododendrons
-532	KTY	8	1: < 10 native Rhododendrons
-191	KUR	8	1: < 10 native Rhododendrons
 238	KUW	0	0: No native Rhododendrons
 296	KZN	0	0: No native Rhododendrons
-477	LAB	1	1: < 10 native Rhododendrons
-356	LAO	13	2: < 20 native Rhododendrons
 104	LBR	0	0: No native Rhododendrons
-225	LBS	1	1: < 10 native Rhododendrons
 84	LBY	0	0: No native Rhododendrons
 342	LDV	0	0: No native Rhododendrons
 608	LEE	0	0: No native Rhododendrons
 152	LES	0	0: No native Rhododendrons
 440	LIN	0	0: No native Rhododendrons
-533	LOU	2	1: < 10 native Rhododendrons
-372	LSI	6	1: < 10 native Rhododendrons
-192	MAG	8	1: < 10 native Rhododendrons
-507	MAI	5	1: < 10 native Rhododendrons
-474	MAN	3	1: < 10 native Rhododendrons
 739	MAQ	0	0: No native Rhododendrons
-508	MAS	5	1: < 10 native Rhododendrons
 171	MAU	0	0: No native Rhododendrons
 172	MCI	0	0: No native Rhododendrons
 452	MCS	0	0: No native Rhododendrons
 173	MDG	0	0: No native Rhododendrons
-94	MDR	2	6: Non-natives only
 343	MDV	0	0: No native Rhododendrons
-509	MIC	1	1: < 10 native Rhododendrons
-497	MIN	1	1: < 10 native Rhododendrons
 105	MLI	0	0: No native Rhododendrons
 141	MLW	0	0: No native Rhododendrons
-376	MLY	17	2: < 20 native Rhododendrons
-489	MNT	3	1: < 10 native Rhododendrons
-379	MOL	11	2: < 20 native Rhododendrons
-286	MON	5	1: < 10 native Rhododendrons
 85	MOR	0	0: No native Rhododendrons
 142	MOZ	0	0: No native Rhododendrons
 740	MPE	0	0: No native Rhododendrons
 453	MRN	0	0: No native Rhododendrons
 443	MRQ	0	0: No native Rhododendrons
 456	MRS	0	0: No native Rhododendrons
-534	MRY	7	1: < 10 native Rhododendrons
-535	MSI	4	1: < 10 native Rhododendrons
-498	MSO	1	1: < 10 native Rhododendrons
 106	MTN	0	0: No native Rhododendrons
 542	MXC	0	0: No native Rhododendrons
 548	MXE	0	0: No native Rhododendrons
@@ -211,80 +133,39 @@ ID	Level3_cod	Count	Category
 566	MXN	0	0: No native Rhododendrons
 571	MXS	0	0: No native Rhododendrons
 578	MXT	0	0: No native Rhododendrons
-357	MYA	165	4: < 200 native Rhododendrons
 153	NAM	0	0: No native Rhododendrons
 154	NAT	0	0: No native Rhododendrons
-478	NBR	2	1: < 10 native Rhododendrons
-536	NCA	13	2: < 20 native Rhododendrons
 358	NCB	0	0: No native Rhododendrons
-202	NCS	3	1: < 10 native Rhododendrons
 499	NDA	0	0: No native Rhododendrons
 500	NEB	0	0: No native Rhododendrons
-344	NEP	35	3: < 100 native Rhododendrons
-26	NET	1	6: Non-natives only
-521	NEV	1	1: < 10 native Rhododendrons
 394	NFK	0	0: No native Rhododendrons
-479	NFL	4	1: < 10 native Rhododendrons
 107	NGA	0	0: No native Rhododendrons
 108	NGR	0	0: No native Rhododendrons
 595	NIC	0	0: No native Rhododendrons
 619	NLA	0	0: No native Rhododendrons
-297	NNS	5	1: < 10 native Rhododendrons
-11	NOR	2	1: < 10 native Rhododendrons
 421	NRU	0	0: No native Rhododendrons
-482	NSC	3	1: < 10 native Rhododendrons
 397	NSW	0	0: No native Rhododendrons
 400	NTA	0	0: No native Rhododendrons
 422	NUE	0	0: No native Rhododendrons
-468	NUN	3	1: < 10 native Rhododendrons
 423	NWC	0	0: No native Rhododendrons
-386	NWG	189	4: < 200 native Rhododendrons
-510	NWH	6	1: < 10 native Rhododendrons
-511	NWJ	5	1: < 10 native Rhododendrons
-524	NWM	1	1: < 10 native Rhododendrons
-469	NWT	3	1: < 10 native Rhododendrons
-512	NWY	8	1: < 10 native Rhododendrons
 414	NZN	0	0: No native Rhododendrons
 415	NZS	0	0: No native Rhododendrons
 155	OFS	0	0: No native Rhododendrons
-298	OGA	1	1: < 10 native Rhododendrons
-513	OHI	4	1: < 10 native Rhododendrons
-501	OKL	3	1: < 10 native Rhododendrons
 239	OMA	0	0: No native Rhododendrons
-483	ONT	4	1: < 10 native Rhododendrons
-490	ORE	6	1: < 10 native Rhododendrons
-345	PAK	2	1: < 10 native Rhododendrons
 228	PAL	0	0: No native Rhododendrons
 596	PAN	0	0: No native Rhododendrons
 729	PAR	0	0: No native Rhododendrons
-484	PEI	2	1: < 10 native Rhododendrons
-514	PEN	11	2: < 20 native Rhododendrons
 647	PER	0	0: No native Rhododendrons
-380	PHI	34	3: < 100 native Rhododendrons
 424	PHX	0	0: No native Rhododendrons
 444	PIT	0	0: No native Rhododendrons
-27	POL	2	1: < 10 native Rhododendrons
-36	POR	1	1: < 10 native Rhododendrons
-193	PRM	12	2: < 20 native Rhododendrons
 622	PUE	0	0: No native Rhododendrons
-401	QLD	2	1: < 10 native Rhododendrons
-485	QUE	4	1: < 10 native Rhododendrons
 174	REU	0	0: No native Rhododendrons
-515	RHO	4	1: < 10 native Rhododendrons
 175	ROD	0	0: No native Rhododendrons
-51	ROM	2	1: < 10 native Rhododendrons
-72	RUC	1	1: < 10 native Rhododendrons
-73	RUE	1	1: < 10 native Rhododendrons
-74	RUN	1	1: < 10 native Rhododendrons
 75	RUS	0	0: No native Rhododendrons
-76	RUW	1	1: < 10 native Rhododendrons
 125	RWA	0	0: No native Rhododendrons
-194	SAK	13	2: < 20 native Rhododendrons
 425	SAM	0	0: No native Rhododendrons
 37	SAR	0	0: No native Rhododendrons
-475	SAS	2	1: < 10 native Rhododendrons
 240	SAU	0	0: No native Rhododendrons
-537	SCA	12	2: < 20 native Rhododendrons
 445	SCI	0	0: No native Rhododendrons
 359	SCS	0	0: No native Rhododendrons
 428	SCZ	0	0: No native Rhododendrons
@@ -298,30 +179,18 @@ ID	Level3_cod	Count	Category
 231	SIN	0	0: No native Rhododendrons
 404	SOA	0	0: No native Rhododendrons
 132	SOC	0	0: No native Rhododendrons
-389	SOL	4	1: < 10 native Rhododendrons
 133	SOM	0	0: No native Rhododendrons
-38	SPA	2	1: < 10 native Rhododendrons
-346	SRL	1	1: < 10 native Rhododendrons
 742	SSA	0	0: No native Rhododendrons
 164	STH	0	0: No native Rhododendrons
 134	SUD	0	0: No native Rhododendrons
-381	SUL	34	3: < 100 native Rhododendrons
-382	SUM	32	3: < 100 native Rhododendrons
 640	SUR	0	0: No native Rhododendrons
 12	SVA	0	0: No native Rhododendrons
 623	SWC	0	0: No native Rhododendrons
-13	SWE	2	1: < 10 native Rhododendrons
-28	SWI	2	1: < 10 native Rhododendrons
 156	SWZ	0	0: No native Rhododendrons
-299	TAI	26	3: < 100 native Rhododendrons
 137	TAN	0	0: No native Rhododendrons
 405	TAS	0	0: No native Rhododendrons
 627	TCI	0	0: No native Rhododendrons
-211	TCS	7	1: < 10 native Rhododendrons
 743	TDC	0	0: No native Rhododendrons
-538	TEN	11	2: < 20 native Rhododendrons
-525	TEX	2	1: < 10 native Rhododendrons
-362	THA	10	2: < 20 native Rhododendrons
 198	TKM	0	0: No native Rhododendrons
 111	TOG	0	0: No native Rhododendrons
 429	TOK	0	0: No native Rhododendrons
@@ -329,42 +198,173 @@ ID	Level3_cod	Count	Category
 628	TRT	0	0: No native Rhododendrons
 446	TUA	0	0: No native Rhododendrons
 447	TUB	0	0: No native Rhododendrons
-55	TUE	1	1: < 10 native Rhododendrons
 88	TUN	0	0: No native Rhododendrons
-232	TUR	10	2: < 20 native Rhododendrons
 434	TUV	0	0: No native Rhododendrons
-184	TVA	5	1: < 10 native Rhododendrons
 157	TVL	0	0: No native Rhododendrons
 199	TZK	0	0: No native Rhododendrons
 138	UGA	0	0: No native Rhododendrons
-77	UKR	3	1: < 10 native Rhododendrons
 730	URU	0	0: No native Rhododendrons
-522	UTA	1	1: < 10 native Rhododendrons
 200	UZB	0	0: No native Rhododendrons
 435	VAN	0	0: No native Rhododendrons
 641	VEN	0	0: No native Rhododendrons
-516	VER	6	1: < 10 native Rhododendrons
 406	VIC	0	0: No native Rhododendrons
-363	VIE	52	3: < 100 native Rhododendrons
 629	VNA	0	0: No native Rhododendrons
-539	VRG	10	2: < 20 native Rhododendrons
 457	WAK	0	0: No native Rhododendrons
 436	WAL	0	0: No native Rhododendrons
-491	WAS	5	1: < 10 native Rhododendrons
 407	WAU	0	0: No native Rhododendrons
 540	WDC	0	0: No native Rhododendrons
-347	WHM	10	2: < 20 native Rhododendrons
 630	WIN	0	0: No native Rhododendrons
-503	WIS	2	1: < 10 native Rhododendrons
 89	WSA	0	0: No native Rhododendrons
-185	WSB	3	1: < 10 native Rhododendrons
-517	WVA	7	1: < 10 native Rhododendrons
-492	WYO	2	1: < 10 native Rhododendrons
 383	XMS	0	0: No native Rhododendrons
-186	YAK	7	1: < 10 native Rhododendrons
 241	YEM	0	0: No native Rhododendrons
-56	YUG	4	1: < 10 native Rhododendrons
-470	YUK	4	1: < 10 native Rhododendrons
 126	ZAI	0	0: No native Rhododendrons
 143	ZAM	0	0: No native Rhododendrons
 144	ZIM	0	0: No native Rhododendrons
+472	ABT	6	1: < 10 native Rhododendrons
+220	AFG	2	1: < 10 native Rhododendrons
+179	ALT	3	1: < 10 native Rhododendrons
+465	ALU	2	1: < 10 native Rhododendrons
+528	ARK	3	1: < 10 native Rhododendrons
+466	ASK	6	1: < 10 native Rhododendrons
+15	AUT	5	1: < 10 native Rhododendrons
+309	BAN	2	1: < 10 native Rhododendrons
+385	BIS	4	1: < 10 native Rhododendrons
+65	BLR	2	1: < 10 native Rhododendrons
+66	BLT	1	1: < 10 native Rhododendrons
+473	BRC	7	1: < 10 native Rhododendrons
+180	BRY	7	1: < 10 native Rhododendrons
+44	BUL	2	1: < 10 native Rhododendrons
+520	CAL	4	1: < 10 native Rhododendrons
+355	CBD	2	1: < 10 native Rhododendrons
+251	CHH	5	1: < 10 native Rhododendrons
+252	CHI	4	1: < 10 native Rhododendrons
+255	CHM	8	1: < 10 native Rhododendrons
+505	CNT	6	1: < 10 native Rhododendrons
+487	COL	2	1: < 10 native Rhododendrons
+181	CTA	6	1: < 10 native Rhododendrons
+21	CZE	1	1: < 10 native Rhododendrons
+529	DEL	4	1: < 10 native Rhododendrons
+222	EAI	1	1: < 10 native Rhododendrons
+4	FIN	2	1: < 10 native Rhododendrons
+530	FLA	5	1: < 10 native Rhododendrons
+32	FRA	4	1: < 10 native Rhododendrons
+24	GER	3	1: < 10 native Rhododendrons
+467	GNL	4	1: < 10 native Rhododendrons
+488	IDA	4	1: < 10 native Rhododendrons
+494	ILL	3	1: < 10 native Rhododendrons
+315	IND	1	1: < 10 native Rhododendrons
+8	IRE	2	7: Non-natives only
+182	IRK	7	1: < 10 native Rhododendrons
+46	ITA	2	1: < 10 native Rhododendrons
+371	JAW	9	1: < 10 native Rhododendrons
+189	KAM	5	1: < 10 native Rhododendrons
+196	KAZ	1	1: < 10 native Rhododendrons
+183	KRA	5	1: < 10 native Rhododendrons
+532	KTY	8	1: < 10 native Rhododendrons
+191	KUR	8	1: < 10 native Rhododendrons
+477	LAB	1	1: < 10 native Rhododendrons
+225	LBS	1	1: < 10 native Rhododendrons
+533	LOU	2	1: < 10 native Rhododendrons
+372	LSI	6	1: < 10 native Rhododendrons
+192	MAG	8	1: < 10 native Rhododendrons
+507	MAI	5	1: < 10 native Rhododendrons
+474	MAN	3	1: < 10 native Rhododendrons
+508	MAS	5	1: < 10 native Rhododendrons
+509	MIC	1	1: < 10 native Rhododendrons
+497	MIN	1	1: < 10 native Rhododendrons
+489	MNT	3	1: < 10 native Rhododendrons
+286	MON	5	1: < 10 native Rhododendrons
+534	MRY	7	1: < 10 native Rhododendrons
+535	MSI	4	1: < 10 native Rhododendrons
+498	MSO	1	1: < 10 native Rhododendrons
+478	NBR	2	1: < 10 native Rhododendrons
+202	NCS	3	1: < 10 native Rhododendrons
+521	NEV	1	1: < 10 native Rhododendrons
+479	NFL	4	1: < 10 native Rhododendrons
+297	NNS	5	1: < 10 native Rhododendrons
+11	NOR	2	1: < 10 native Rhododendrons
+482	NSC	3	1: < 10 native Rhododendrons
+468	NUN	3	1: < 10 native Rhododendrons
+510	NWH	6	1: < 10 native Rhododendrons
+511	NWJ	5	1: < 10 native Rhododendrons
+524	NWM	1	1: < 10 native Rhododendrons
+469	NWT	3	1: < 10 native Rhododendrons
+512	NWY	8	1: < 10 native Rhododendrons
+298	OGA	1	1: < 10 native Rhododendrons
+513	OHI	4	1: < 10 native Rhododendrons
+501	OKL	3	1: < 10 native Rhododendrons
+483	ONT	4	1: < 10 native Rhododendrons
+490	ORE	6	1: < 10 native Rhododendrons
+345	PAK	2	1: < 10 native Rhododendrons
+484	PEI	2	1: < 10 native Rhododendrons
+27	POL	2	1: < 10 native Rhododendrons
+36	POR	1	1: < 10 native Rhododendrons
+401	QLD	2	1: < 10 native Rhododendrons
+485	QUE	4	1: < 10 native Rhododendrons
+515	RHO	4	1: < 10 native Rhododendrons
+51	ROM	2	1: < 10 native Rhododendrons
+72	RUC	1	1: < 10 native Rhododendrons
+73	RUE	1	1: < 10 native Rhododendrons
+74	RUN	1	1: < 10 native Rhododendrons
+76	RUW	1	1: < 10 native Rhododendrons
+475	SAS	2	1: < 10 native Rhododendrons
+389	SOL	4	1: < 10 native Rhododendrons
+38	SPA	2	1: < 10 native Rhododendrons
+346	SRL	1	1: < 10 native Rhododendrons
+13	SWE	2	1: < 10 native Rhododendrons
+28	SWI	2	1: < 10 native Rhododendrons
+211	TCS	7	1: < 10 native Rhododendrons
+525	TEX	2	1: < 10 native Rhododendrons
+55	TUE	1	1: < 10 native Rhododendrons
+184	TVA	5	1: < 10 native Rhododendrons
+77	UKR	3	1: < 10 native Rhododendrons
+522	UTA	1	1: < 10 native Rhododendrons
+516	VER	6	1: < 10 native Rhododendrons
+491	WAS	5	1: < 10 native Rhododendrons
+503	WIS	2	1: < 10 native Rhododendrons
+185	WSB	3	1: < 10 native Rhododendrons
+517	WVA	7	1: < 10 native Rhododendrons
+492	WYO	2	1: < 10 native Rhododendrons
+186	YAK	7	1: < 10 native Rhododendrons
+56	YUG	4	1: < 10 native Rhododendrons
+470	YUK	4	1: < 10 native Rhododendrons
+527	ALA	15	2: < 20 native Rhododendrons
+188	AMU	12	2: < 20 native Rhododendrons
+302	ASS	17	2: < 20 native Rhododendrons
+531	GEO	17	2: < 20 native Rhododendrons
+190	KHA	12	2: < 20 native Rhododendrons
+293	KOR	16	2: < 20 native Rhododendrons
+356	LAO	13	2: < 20 native Rhododendrons
+376	MLY	17	2: < 20 native Rhododendrons
+379	MOL	11	2: < 20 native Rhododendrons
+536	NCA	13	2: < 20 native Rhododendrons
+514	PEN	11	2: < 20 native Rhododendrons
+193	PRM	12	2: < 20 native Rhododendrons
+194	SAK	13	2: < 20 native Rhododendrons
+537	SCA	12	2: < 20 native Rhododendrons
+538	TEN	11	2: < 20 native Rhododendrons
+362	THA	10	2: < 20 native Rhododendrons
+232	TUR	10	2: < 20 native Rhododendrons
+539	VRG	10	2: < 20 native Rhododendrons
+347	WHM	10	2: < 20 native Rhododendrons
+365	BOR	85	3: < 100 native Rhododendrons
+259	CHN	47	3: < 100 native Rhododendrons
+267	CHQ	21	3: < 100 native Rhododendrons
+344	NEP	35	3: < 100 native Rhododendrons
+380	PHI	34	3: < 100 native Rhododendrons
+381	SUL	34	3: < 100 native Rhododendrons
+382	SUM	32	3: < 100 native Rhododendrons
+299	TAI	26	3: < 100 native Rhododendrons
+363	VIE	52	3: < 100 native Rhododendrons
+268	CHS	142	4: < 200 native Rhododendrons
+310	EHM	129	4: < 200 native Rhododendrons
+288	JAP	117	4: < 200 native Rhododendrons
+357	MYA	165	4: < 200 native Rhododendrons
+386	NWG	189	4: < 200 native Rhododendrons
+283	CHT	231	5: < 500 native Rhododendrons 
+245	CHC	507	6: > 500 native Rhododendrons
+18	BGM	1	7: Non-natives only
+120	GGI	1	7: Non-natives only
+6	GRB	4	7: Non-natives only
+94	MDR	2	7: Non-natives only
+26	NET	1	7: Non-natives only
